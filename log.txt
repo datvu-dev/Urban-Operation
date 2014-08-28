@@ -1,0 +1,9 @@
+  v 1.0.2 3 July 2014
+  		
+		Fixed: Import demo files in theme options
+		Fixed: Portfolio timeline excerpt
+		Fixed: Blog timeline excerpt
+		Fixed: Masonry jquery enqueue
+		Added: Blog Masonry page template
+		
+		
